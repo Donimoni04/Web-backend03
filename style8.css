@@ -52,7 +52,7 @@ form select{
     color: black;
 }
 form > div{
-    margin: 6px 0;
+    margin: 5px 0;
 }
 form .ent{
     text-align: left;
@@ -79,7 +79,6 @@ form button{
     cursor: pointer;
     margin-left: calc(50% - 50px);
     outline: none !important;
-    padding-bottom: 10px;
 }
 form button:active{
     filter: brightness(120%);
